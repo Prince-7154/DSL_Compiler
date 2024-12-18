@@ -1,0 +1,291 @@
+{
+  "name": "",
+  "element": "root",
+  "nodes": [
+    {
+      "name": "",
+      "element": "header",
+      "nodes": [
+        {
+          "name": "",
+          "element": "flex-c",
+          "nodes": [
+            {
+              "name": "",
+              "element": "nav",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "navlink",
+                  "nodes": [],
+                  "text": "ad sunt",
+                  "href": "#"
+                },
+                {
+                  "name": "",
+                  "element": "navlink",
+                  "nodes": [],
+                  "text": "ut",
+                  "href": "#"
+                },
+                {
+                  "name": "",
+                  "element": "navlink",
+                  "nodes": [],
+                  "text": "Lorem exercitation",
+                  "href": "#"
+                },
+                {
+                  "name": "",
+                  "element": "navlink",
+                  "nodes": [],
+                  "text": "reprehenderit do tempor",
+                  "href": "#"
+                },
+                {
+                  "name": "",
+                  "element": "navlink",
+                  "nodes": [],
+                  "text": "dolor",
+                  "href": "#"
+                }
+              ]
+            },
+            {
+              "name": "",
+              "element": "nav",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "navlink",
+                  "nodes": [],
+                  "text": "in esse ullamco",
+                  "href": "#"
+                },
+                {
+                  "name": "",
+                  "element": "navlink",
+                  "nodes": [],
+                  "text": "Duis officia. minim",
+                  "href": "#"
+                },
+                {
+                  "name": "",
+                  "element": "navlink",
+                  "nodes": [],
+                  "text": "exercitation irure",
+                  "href": "#"
+                },
+                {
+                  "name": "",
+                  "element": "navlink",
+                  "nodes": [],
+                  "text": "ut",
+                  "href": "#"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "",
+      "element": "container",
+      "nodes": [
+        {
+          "name": "",
+          "element": "row",
+          "nodes": [
+            {
+              "name": "",
+              "element": "div-3",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "flex-c",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "image",
+                      "nodes": [],
+                      "url": ""
+                    },
+                    {
+                      "name": "",
+                      "element": "button",
+                      "nodes": [],
+                      "text": "in",
+                      "href": "#"
+                    }
+                  ]
+                },
+                {
+                  "name": "",
+                  "element": "button",
+                  "nodes": [],
+                  "text": "dolor in ut",
+                  "href": "#"
+                }
+              ]
+            },
+            {
+              "name": "",
+              "element": "div-3",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "text",
+                  "nodes": [],
+                  "text": "labore dolor dolore"
+                },
+                {
+                  "name": "",
+                  "element": "input",
+                  "nodes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "element": "row",
+          "nodes": [
+            {
+              "name": "",
+              "element": "div-3",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "flex",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "image",
+                      "nodes": [],
+                      "url": ""
+                    },
+                    {
+                      "name": "",
+                      "element": "text",
+                      "nodes": [],
+                      "text": "tempor aute sint"
+                    },
+                    {
+                      "name": "",
+                      "element": "button-c",
+                      "nodes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "",
+                  "element": "image",
+                  "nodes": [],
+                  "url": ""
+                }
+              ]
+            },
+            {
+              "name": "",
+              "element": "div-9",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "image",
+                  "nodes": [],
+                  "url": ""
+                },
+                {
+                  "name": "",
+                  "element": "flex",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "text",
+                      "nodes": [],
+                      "text": "qui"
+                    },
+                    {
+                      "name": "",
+                      "element": "text",
+                      "nodes": [],
+                      "text": "eiusmod"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "element": "row",
+          "nodes": [
+            {
+              "name": "",
+              "element": "div-12",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "carousel",
+                  "nodes": [],
+                  "images": []
+                },
+                {
+                  "name": "",
+                  "element": "card",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "flex",
+                      "nodes": [
+                        {
+                          "name": "",
+                          "element": "button",
+                          "nodes": [],
+                          "text": "enim in",
+                          "href": "#"
+                        },
+                        {
+                          "name": "",
+                          "element": "image",
+                          "nodes": [],
+                          "url": ""
+                        },
+                        {
+                          "name": "",
+                          "element": "image",
+                          "nodes": [],
+                          "url": ""
+                        }
+                      ]
+                    },
+                    {
+                      "name": "",
+                      "element": "paragraph",
+                      "nodes": [],
+                      "text": "sit adipiscing cillum.Excepteur elit. Sed sunt consectetur in nostrud. ullamco do Ut in reprehenderit elit. tempor eiusmod ut. officia. ut consectetur nostrud qui dolore Lorem quis. reprehenderit et elit. non in dolor in Ut. adipiscing laboris. veniam, voluptate elit. quis aute esse. exercitation et dolor dolor minim labore elit.. qui sunt culpa occaecat magna in"
+                    },
+                    {
+                      "name": "",
+                      "element": "button",
+                      "nodes": [],
+                      "text": "in consectetur ipsum",
+                      "href": "#"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "styles": {
+    "primaryColor": "#6a11cb",
+    "secondaryColor": "#2ecc71"
+  }
+}

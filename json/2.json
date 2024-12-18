@@ -1,0 +1,103 @@
+{
+  "name": "",
+  "element": "root",
+  "nodes": [
+    {
+      "name": "",
+      "element": "container",
+      "nodes": [
+        {
+          "name": "",
+          "element": "row",
+          "nodes": [
+            {
+              "name": "",
+              "element": "div-12",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "table",
+                  "nodes": [],
+                  "data": {}
+                },
+                {
+                  "name": "",
+                  "element": "text-c",
+                  "nodes": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "",
+      "element": "footer",
+      "nodes": [
+        {
+          "name": "",
+          "element": "row",
+          "nodes": [
+            {
+              "name": "",
+              "element": "div-3",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "button-c",
+                  "nodes": []
+                },
+                {
+                  "name": "",
+                  "element": "image",
+                  "nodes": [],
+                  "url": ""
+                }
+              ]
+            },
+            {
+              "name": "",
+              "element": "div-9",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "flex-sb",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "text-c",
+                      "nodes": []
+                    },
+                    {
+                      "name": "",
+                      "element": "image",
+                      "nodes": [],
+                      "url": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "",
+                  "element": "carousel",
+                  "nodes": [],
+                  "images": []
+                },
+                {
+                  "name": "",
+                  "element": "paragraph",
+                  "nodes": [],
+                  "text": "do in elit. sint minim amet, aliqua. veniam,. Lorem amet, adipiscing culpa ipsum nostrud tempor sunt reprehenderit. laboris. voluptate culpa ut ipsum proident, dolor. esse veniam, eiusmod in in cillum.Excepteur irure. magna officia. in sit quis ad cillum.Excepteur Sed consectetur in"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "styles": {
+    "primaryColor": "#6a11cb",
+    "secondaryColor": "#2ecc71"
+  }
+}

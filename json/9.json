@@ -1,0 +1,241 @@
+{
+  "name": "",
+  "element": "root",
+  "nodes": [
+    {
+      "name": "",
+      "element": "container",
+      "nodes": [
+        {
+          "name": "",
+          "element": "row",
+          "nodes": [
+            {
+              "name": "",
+              "element": "div-3",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "flex-c",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "text",
+                      "nodes": [],
+                      "text": "in enim"
+                    },
+                    {
+                      "name": "",
+                      "element": "text-c",
+                      "nodes": []
+                    },
+                    {
+                      "name": "",
+                      "element": "button-c",
+                      "nodes": []
+                    },
+                    {
+                      "name": "",
+                      "element": "image",
+                      "nodes": [],
+                      "url": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "",
+                  "element": "image",
+                  "nodes": [],
+                  "url": ""
+                }
+              ]
+            },
+            {
+              "name": "",
+              "element": "div-9",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "card",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "image",
+                      "nodes": [],
+                      "url": ""
+                    },
+                    {
+                      "name": "",
+                      "element": "input",
+                      "nodes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "",
+                  "element": "paragraph",
+                  "nodes": [],
+                  "text": "sint ut velit aliqua. proident, in reprehenderit esse dolor exercitation. et ut elit. Lorem reprehenderit nostrud Sed qui. elit. cillum.Excepteur dolor Duis veniam, qui cupidatat dolor quis aute. esse aute enim consectetur adipiscing. do veniam, in Duis in proident, reprehenderit quis et occaecat. do sint tempor qui cupidatat velit dolor enim sit. eiusmod culpa minim dolor Duis adipiscing non Sed ad"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "",
+      "element": "footer",
+      "nodes": [
+        {
+          "name": "",
+          "element": "row",
+          "nodes": [
+            {
+              "name": "",
+              "element": "div-3",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "input",
+                  "nodes": []
+                },
+                {
+                  "name": "",
+                  "element": "text-c",
+                  "nodes": []
+                }
+              ]
+            },
+            {
+              "name": "",
+              "element": "div-3",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "card",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "flex",
+                      "nodes": [
+                        {
+                          "name": "",
+                          "element": "button",
+                          "nodes": [],
+                          "text": "elit. sint et",
+                          "href": "#"
+                        },
+                        {
+                          "name": "",
+                          "element": "button",
+                          "nodes": [],
+                          "text": "incididunt amet, ut",
+                          "href": "#"
+                        },
+                        {
+                          "name": "",
+                          "element": "button",
+                          "nodes": [],
+                          "text": "sint",
+                          "href": "#"
+                        },
+                        {
+                          "name": "",
+                          "element": "button",
+                          "nodes": [],
+                          "text": "in in",
+                          "href": "#"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "",
+                      "element": "input",
+                      "nodes": []
+                    },
+                    {
+                      "name": "",
+                      "element": "input",
+                      "nodes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "",
+                  "element": "image",
+                  "nodes": [],
+                  "url": ""
+                }
+              ]
+            },
+            {
+              "name": "",
+              "element": "div-6",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "carousel",
+                  "nodes": [],
+                  "images": []
+                },
+                {
+                  "name": "",
+                  "element": "card",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "button",
+                      "nodes": [],
+                      "text": "quis Sed in",
+                      "href": "#"
+                    },
+                    {
+                      "name": "",
+                      "element": "flex-sb",
+                      "nodes": [
+                        {
+                          "name": "",
+                          "element": "text",
+                          "nodes": [],
+                          "text": "cupidatat"
+                        },
+                        {
+                          "name": "",
+                          "element": "image",
+                          "nodes": [],
+                          "url": ""
+                        },
+                        {
+                          "name": "",
+                          "element": "image",
+                          "nodes": [],
+                          "url": ""
+                        }
+                      ]
+                    },
+                    {
+                      "name": "",
+                      "element": "input",
+                      "nodes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "",
+                  "element": "paragraph",
+                  "nodes": [],
+                  "text": "ut consectetur magna in dolor Lorem incididunt culpa. incididunt reprehenderit laboris. sint labore. reprehenderit eiusmod tempor incididunt culpa. ullamco minim cupidatat in occaecat consectetur ad ipsum. esse sit reprehenderit incididunt amet, culpa tempor"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "styles": {
+    "primaryColor": "#6a11cb",
+    "secondaryColor": "#2ecc71"
+  }
+}

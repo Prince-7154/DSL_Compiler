@@ -1,0 +1,300 @@
+{
+  "name": "",
+  "element": "root",
+  "nodes": [
+    {
+      "name": "",
+      "element": "header",
+      "nodes": [
+        {
+          "name": "",
+          "element": "flex-sb",
+          "nodes": [
+            {
+              "name": "",
+              "element": "logodiv",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "image",
+                  "nodes": [],
+                  "url": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "",
+      "element": "container",
+      "nodes": [
+        {
+          "name": "",
+          "element": "row",
+          "nodes": [
+            {
+              "name": "",
+              "element": "div-3",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "button",
+                  "nodes": [],
+                  "text": "consectetur",
+                  "href": "#"
+                },
+                {
+                  "name": "",
+                  "element": "card",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "button",
+                      "nodes": [],
+                      "text": "ut",
+                      "href": "#"
+                    },
+                    {
+                      "name": "",
+                      "element": "paragraph",
+                      "nodes": [],
+                      "text": "eiusmod in ullamco Lorem veniam,. amet, veniam, officia. aute non enim sint. veniam, dolore sunt sint exercitation. occaecat eiusmod culpa aute Duis cupidatat elit. officia. nostrud incididunt. reprehenderit incididunt exercitation consectetur dolor. aute non reprehenderit cupidatat Sed occaecat elit.. ipsum voluptate aute consectetur esse qui occaecat laboris.. irure in culpa officia. dolore. sint dolor reprehenderit ipsum in velit. qui laboris. Lorem veniam, officia. et"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "element": "div-3",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "card",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "flex",
+                      "nodes": [
+                        {
+                          "name": "",
+                          "element": "image",
+                          "nodes": [],
+                          "url": ""
+                        },
+                        {
+                          "name": "",
+                          "element": "text",
+                          "nodes": [],
+                          "text": "magna cupidatat enim reprehenderit"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "",
+                      "element": "button-c",
+                      "nodes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "",
+                  "element": "paragraph",
+                  "nodes": [],
+                  "text": "non dolore Lorem enim magna. voluptate non reprehenderit enim proident,. velit sunt cillum.Excepteur nostrud Sed tempor non voluptate in qui. do eiusmod elit. ipsum culpa. cillum.Excepteur aute eiusmod in dolor"
+                }
+              ]
+            },
+            {
+              "name": "",
+              "element": "div-6",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "card",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "button",
+                      "nodes": [],
+                      "text": "qui sunt",
+                      "href": "#"
+                    },
+                    {
+                      "name": "",
+                      "element": "text-c",
+                      "nodes": []
+                    },
+                    {
+                      "name": "",
+                      "element": "input",
+                      "nodes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "",
+                  "element": "button-c",
+                  "nodes": []
+                },
+                {
+                  "name": "",
+                  "element": "paragraph",
+                  "nodes": [],
+                  "text": "velit dolore in culpa in proident,. tempor non ut voluptate Duis. irure enim Duis amet, in. cupidatat voluptate do eiusmod dolore Lorem sit. Duis velit quis dolor adipiscing nostrud voluptate dolor. amet, esse et sint in magna dolor. in reprehenderit adipiscing sunt non et eiusmod. sit in ullamco quis cupidatat tempor in occaecat. cillum.Excepteur exercitation et voluptate sint ad magna irure aliqua."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "element": "row",
+          "nodes": [
+            {
+              "name": "",
+              "element": "div-6",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "text-c",
+                  "nodes": []
+                },
+                {
+                  "name": "",
+                  "element": "image",
+                  "nodes": [],
+                  "url": ""
+                }
+              ]
+            },
+            {
+              "name": "",
+              "element": "div-6",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "card",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "paragraph",
+                      "nodes": [],
+                      "text": "dolore labore ut et proident, ipsum Duis reprehenderit tempor. exercitation amet, nostrud dolor occaecat velit qui ipsum quis Sed. qui velit sunt adipiscing elit. proident, exercitation. in dolore sunt elit. labore non proident, Sed velit incididunt. laboris. ut eiusmod aliqua. ad magna dolore. ad aute consectetur in nostrud adipiscing do incididunt aliqua. exercitation. ad adipiscing officia. dolore reprehenderit Duis et Lorem tempor veniam,"
+                    },
+                    {
+                      "name": "",
+                      "element": "button",
+                      "nodes": [],
+                      "text": "ut irure et",
+                      "href": "#"
+                    },
+                    {
+                      "name": "",
+                      "element": "button",
+                      "nodes": [],
+                      "text": "cupidatat occaecat",
+                      "href": "#"
+                    }
+                  ]
+                },
+                {
+                  "name": "",
+                  "element": "image",
+                  "nodes": [],
+                  "url": ""
+                },
+                {
+                  "name": "",
+                  "element": "paragraph",
+                  "nodes": [],
+                  "text": "esse proident, aute non qui in adipiscing cupidatat. Duis aute aliqua. reprehenderit officia. dolor eiusmod voluptate velit sint. in eiusmod consectetur nostrud adipiscing tempor enim elit.. et Sed enim proident, labore nostrud"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "element": "row",
+          "nodes": [
+            {
+              "name": "",
+              "element": "div-6",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "carousel",
+                  "nodes": [],
+                  "images": []
+                },
+                {
+                  "name": "",
+                  "element": "button",
+                  "nodes": [],
+                  "text": "voluptate laboris. in",
+                  "href": "#"
+                },
+                {
+                  "name": "",
+                  "element": "flex-c",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "button",
+                      "nodes": [],
+                      "text": "non exercitation",
+                      "href": "#"
+                    },
+                    {
+                      "name": "",
+                      "element": "image",
+                      "nodes": [],
+                      "url": ""
+                    },
+                    {
+                      "name": "",
+                      "element": "image",
+                      "nodes": [],
+                      "url": ""
+                    },
+                    {
+                      "name": "",
+                      "element": "text",
+                      "nodes": [],
+                      "text": "Sed"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "element": "div-6",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "text",
+                  "nodes": [],
+                  "text": "Duis incididunt enim irure"
+                },
+                {
+                  "name": "",
+                  "element": "image",
+                  "nodes": [],
+                  "url": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "styles": {
+    "primaryColor": "#6a11cb",
+    "secondaryColor": "#2ecc71"
+  }
+}

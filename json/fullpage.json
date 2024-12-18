@@ -1,0 +1,233 @@
+{
+  "name": "",
+  "element": "root",
+  "nodes": [
+    {
+      "name": "",
+      "element": "root",
+      "nodes": [
+        {
+          "name": "",
+          "element": "header",
+          "nodes": [
+            {
+              "name": "",
+              "element": "nav",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "navlink",
+                  "nodes": [],
+                  "text": "eiusmod esse in",
+                  "href": "#"
+                },
+                {
+                  "name": "",
+                  "element": "navlink",
+                  "nodes": [],
+                  "text": "eiusmod ad enim",
+                  "href": "#"
+                },
+                {
+                  "name": "",
+                  "element": "navlink",
+                  "nodes": [],
+                  "text": "minim quis Sed",
+                  "href": "#"
+                },
+                {
+                  "name": "",
+                  "element": "navlink",
+                  "nodes": [],
+                  "text": "ullamco",
+                  "href": "#"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "element": "container",
+          "nodes": [
+            {
+              "name": "",
+              "element": "row",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "div-6",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "card",
+                      "nodes": [
+                        {
+                          "name": "",
+                          "element": "image",
+                          "nodes": [],
+                          "url": ""
+                        },
+                        {
+                          "name": "",
+                          "element": "text-c",
+                          "nodes": []
+                        },
+                        {
+                          "name": "",
+                          "element": "button",
+                          "nodes": [],
+                          "text": "velit sint",
+                          "href": "#"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "",
+                  "element": "div-6",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "card",
+                      "nodes": [
+                        {
+                          "name": "",
+                          "element": "image",
+                          "nodes": [],
+                          "url": ""
+                        },
+                        {
+                          "name": "",
+                          "element": "text-c",
+                          "nodes": []
+                        },
+                        {
+                          "name": "",
+                          "element": "button",
+                          "nodes": [],
+                          "text": "culpa",
+                          "href": "#"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "element": "row",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "text",
+                  "nodes": [],
+                  "text": "Now for manners use has company believe parlors. Least nor party who wrote while did. Excuse formed as is agreed admire so on result parish. Put use set uncommonly announcing and travelling. Allowance sweetness direction to as necessary. Principle oh explained excellent do my suspected conveying in. Excellent you did therefore perfectly supposing described.Enjoyed minutes related as at on on. Is fanny dried as often me. Goodness as reserved raptures to mistaken steepest oh screened he. Gravity he mr sixteen esteems. Mile home its new way with high told said. Finished no horrible blessing landlord dwelling dissuade if. Rent fond am he in on read. Anxious cordial demands settled entered in do to colonel.Inhabit hearing perhaps on ye do no. It maids decay as there he. Smallest on suitable disposed do although blessing he juvenile in. Society or if excited forbade. Here name off yet she long sold easy whom. Differed oh cheerful procured pleasure securing suitable in. Hold rich on an he oh fine. Chapter ability shyness article welcome be do on service.His followed carriage proposal entrance directly had elegance. Greater for cottage gay parties natural. Remaining he furniture on he discourse suspected perpetual. Power dried her taken place day ought the. Four and our ham west miss. Education shameless who middleton agreement how. We in found world chief is at means weeks smile."
+                }
+              ]
+            },
+            {
+              "name": "",
+              "element": "row",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "div-3",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "card",
+                      "nodes": [
+                        {
+                          "name": "",
+                          "element": "text-c",
+                          "nodes": []
+                        },
+                        {
+                          "name": "",
+                          "element": "button",
+                          "nodes": [],
+                          "text": "proident, dolore esse",
+                          "href": "#"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "",
+                  "element": "div-3",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "card",
+                      "nodes": [
+                        {
+                          "name": "",
+                          "element": "text-c",
+                          "nodes": []
+                        },
+                        {
+                          "name": "",
+                          "element": "button",
+                          "nodes": [],
+                          "text": "labore",
+                          "href": "#"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "",
+                  "element": "div-3",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "card",
+                      "nodes": [
+                        {
+                          "name": "",
+                          "element": "text-c",
+                          "nodes": []
+                        },
+                        {
+                          "name": "",
+                          "element": "button",
+                          "nodes": [],
+                          "text": "dolor magna",
+                          "href": "#"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "element": "footer",
+          "nodes": [
+            {
+              "name": "",
+              "element": "text-c",
+              "nodes": []
+            }
+          ]
+        }
+      ],
+      "styles": {
+        "primaryColor": "#6a11cb",
+        "secondaryColor": "#2ecc71"
+      }
+    }
+  ],
+  "styles": {
+    "primaryColor": "#6a11cb",
+    "secondaryColor": "#2ecc71"
+  }
+}

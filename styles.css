@@ -1,0 +1,176 @@
+body {
+  background-color: #000000;
+  margin: 0;
+  padding: 0;
+}
+
+.root {
+  background-color: #000000;
+  padding: 10px;
+}
+
+.header {
+  background-color: #1e90ff;
+  padding: 15px;
+  margin: 10px;
+}
+
+.nav {
+  background-color: #32cd32;
+  padding: 10px;
+  margin: 10px;
+}
+
+.navlink {
+  background-color: #ffd700;
+  padding: 5px;
+  margin: 5px;
+  display: inline-block;
+}
+
+.logodiv {
+  background-color: #ff4500;
+  padding: 10px;
+  margin: 10px;
+}
+
+.container {
+  background-color: #8a2be2;
+  padding: 15px;
+  margin: 10px;
+}
+
+.row {
+  background-color: #20b2aa;
+  padding: 10px;
+  margin: 10px;
+}
+
+.div-3 {
+  background-color: #fa8072;
+  width: 25%;
+  padding: 10px;
+  margin: 5px;
+}
+
+.div-6 {
+  background-color: #dda0dd;
+  width: 50%;
+  padding: 10px;
+  margin: 5px;
+}
+
+.div-9 {
+  background-color: #f0e68c;
+  width: 75%;
+  padding: 10px;
+  margin: 5px;
+}
+
+.div-12 {
+  background-color: #48d1cc;
+  width: 100%;
+  padding: 10px;
+  margin: 5px;
+}
+
+.flex,
+.flex-sb,
+.flex-c,
+.flex-r {
+  background-color: #ff6347;
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+}
+
+.flex-sb {
+  justify-content: space-between;
+}
+.flex-c {
+  flex-direction: column;
+}
+.flex-r {
+  flex-direction: row;
+}
+
+.text {
+  background-color: #00ced1;
+  padding: 5px;
+  margin: 5px;
+}
+
+.text-c {
+  background-color: #9370db;
+  padding: 5px;
+  margin: 5px;
+}
+
+.text-r {
+  background-color: #3cb371;
+  padding: 5px;
+  margin: 5px;
+}
+
+.paragraph {
+  background-color: #ffa07a;
+  padding: 10px;
+  margin: 10px;
+}
+
+.image {
+  background-color: #7b68ee;
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+}
+
+.card {
+  background-color: #f08080;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 8px;
+}
+
+.input {
+  background-color: #98fb98;
+  padding: 5px;
+  margin: 5px;
+  display: inline-block;
+}
+
+.button {
+  background-color: #ff69b4;
+  padding: 10px;
+  margin: 5px;
+  display: inline-block;
+}
+
+.button-c {
+  background-color: #dda0dd;
+  padding: 10px;
+  margin: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button-r {
+  background-color: #20b2aa;
+  padding: 10px;
+  margin: 5px;
+  display: block;
+  margin-left: auto;
+}
+
+.footer {
+  background-color: #cd853f;
+  padding: 15px;
+  margin: 10px;
+}
+
+/* Hide all text */
+* {
+  color: transparent;
+  font-size: 0;
+}

@@ -1,0 +1,216 @@
+{
+  "name": "",
+  "element": "root",
+  "nodes": [
+    {
+      "name": "",
+      "element": "header",
+      "nodes": [
+        {
+          "name": "",
+          "element": "flex-c",
+          "nodes": [
+            {
+              "name": "",
+              "element": "nav",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "navlink",
+                  "nodes": [],
+                  "text": "quis ad dolore",
+                  "href": "#"
+                },
+                {
+                  "name": "",
+                  "element": "navlink",
+                  "nodes": [],
+                  "text": "dolore sint",
+                  "href": "#"
+                },
+                {
+                  "name": "",
+                  "element": "navlink",
+                  "nodes": [],
+                  "text": "consectetur tempor Duis",
+                  "href": "#"
+                },
+                {
+                  "name": "",
+                  "element": "navlink",
+                  "nodes": [],
+                  "text": "occaecat",
+                  "href": "#"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "",
+      "element": "container",
+      "nodes": [
+        {
+          "name": "",
+          "element": "row",
+          "nodes": [
+            {
+              "name": "",
+              "element": "div-3",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "flex-r",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "button",
+                      "nodes": [],
+                      "text": "elit. aliqua.",
+                      "href": "#"
+                    },
+                    {
+                      "name": "",
+                      "element": "button",
+                      "nodes": [],
+                      "text": "sint cupidatat",
+                      "href": "#"
+                    }
+                  ]
+                },
+                {
+                  "name": "",
+                  "element": "text",
+                  "nodes": [],
+                  "text": "in dolore elit."
+                }
+              ]
+            },
+            {
+              "name": "",
+              "element": "div-3",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "button-c",
+                  "nodes": []
+                },
+                {
+                  "name": "",
+                  "element": "card",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "input",
+                      "nodes": []
+                    },
+                    {
+                      "name": "",
+                      "element": "paragraph",
+                      "nodes": [],
+                      "text": "ad cupidatat aute in ullamco Sed voluptate. sunt voluptate nostrud in exercitation. nostrud cupidatat Sed sunt in dolor. dolor veniam, cillum.Excepteur in sunt Duis Lorem voluptate officia."
+                    },
+                    {
+                      "name": "",
+                      "element": "paragraph",
+                      "nodes": [],
+                      "text": "consectetur dolor labore nostrud adipiscing. nostrud qui exercitation esse in proident,. amet, dolor eiusmod proident, do non reprehenderit. nostrud cillum.Excepteur Lorem culpa ad reprehenderit ullamco minim. elit. quis in non sint. ullamco elit. ad proident, adipiscing culpa enim dolor"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "element": "row",
+          "nodes": [
+            {
+              "name": "",
+              "element": "div-6",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "carousel",
+                  "nodes": [],
+                  "images": []
+                },
+                {
+                  "name": "",
+                  "element": "card",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "button",
+                      "nodes": [],
+                      "text": "do",
+                      "href": "#"
+                    },
+                    {
+                      "name": "",
+                      "element": "input",
+                      "nodes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "",
+                  "element": "flex-sb",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "image",
+                      "nodes": [],
+                      "url": ""
+                    },
+                    {
+                      "name": "",
+                      "element": "image",
+                      "nodes": [],
+                      "url": ""
+                    },
+                    {
+                      "name": "",
+                      "element": "image",
+                      "nodes": [],
+                      "url": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "element": "div-6",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "input",
+                  "nodes": []
+                },
+                {
+                  "name": "",
+                  "element": "carousel",
+                  "nodes": [],
+                  "images": []
+                },
+                {
+                  "name": "",
+                  "element": "button-c",
+                  "nodes": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "styles": {
+    "primaryColor": "#6a11cb",
+    "secondaryColor": "#2ecc71"
+  }
+}

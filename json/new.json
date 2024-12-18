@@ -1,0 +1,156 @@
+{
+  "name": "",
+  "element": "root",
+  "nodes": [
+    {
+      "name": "",
+      "element": "root",
+      "nodes": [
+        {
+          "name": "",
+          "element": "container",
+          "nodes": [
+            {
+              "name": "",
+              "element": "row",
+              "nodes": [
+                {
+                  "name": "",
+                  "element": "div-3",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "card",
+                      "nodes": [
+                        {
+                          "name": "",
+                          "element": "image",
+                          "nodes": [],
+                          "url": ""
+                        },
+                        {
+                          "name": "",
+                          "element": "text",
+                          "nodes": [],
+                          "text": "aliqua. Sed minim"
+                        },
+                        {
+                          "name": "",
+                          "element": "button",
+                          "nodes": [],
+                          "text": "consectetur",
+                          "href": "#"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "",
+                  "element": "div-3",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "card",
+                      "nodes": [
+                        {
+                          "name": "",
+                          "element": "image",
+                          "nodes": [],
+                          "url": ""
+                        },
+                        {
+                          "name": "",
+                          "element": "text",
+                          "nodes": [],
+                          "text": "sit Lorem et"
+                        },
+                        {
+                          "name": "",
+                          "element": "button",
+                          "nodes": [],
+                          "text": "occaecat",
+                          "href": "#"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "",
+                  "element": "div-3",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "card",
+                      "nodes": [
+                        {
+                          "name": "",
+                          "element": "image",
+                          "nodes": [],
+                          "url": ""
+                        },
+                        {
+                          "name": "",
+                          "element": "text",
+                          "nodes": [],
+                          "text": "dolor sint adipiscing proident,"
+                        },
+                        {
+                          "name": "",
+                          "element": "button",
+                          "nodes": [],
+                          "text": "labore elit. consectetur",
+                          "href": "#"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "",
+                  "element": "div-3",
+                  "nodes": [
+                    {
+                      "name": "",
+                      "element": "card",
+                      "nodes": [
+                        {
+                          "name": "",
+                          "element": "image",
+                          "nodes": [],
+                          "url": ""
+                        },
+                        {
+                          "name": "",
+                          "element": "text",
+                          "nodes": [],
+                          "text": "esse velit"
+                        },
+                        {
+                          "name": "",
+                          "element": "button",
+                          "nodes": [],
+                          "text": "qui",
+                          "href": "#"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "styles": {
+        "primaryColor": "#6a11cb",
+        "secondaryColor": "#2ecc71"
+      }
+    }
+  ],
+  "styles": {
+    "primaryColor": "#6a11cb",
+    "secondaryColor": "#2ecc71"
+  }
+}
